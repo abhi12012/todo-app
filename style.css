@@ -50,3 +50,18 @@ button {
 button:hover {
   background: #00b2d4;
 }
+
+
+ul {
+  list-style: none;
+  width: 250px;
+}
+
+
+ul li {
+  background: #333;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
