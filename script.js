@@ -38,3 +38,5 @@ function addTask() {
 
   input.value = "";
 }
+
+// update: delete button improved

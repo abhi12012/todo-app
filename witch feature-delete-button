@@ -1,0 +1,5 @@
+[33m58c6b0c[m[33m ([m[1;32mmaster[m[33m)[m feat: add delete button feature
+[33m5ce2d60[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-delete-button[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature-delete-button[m[33m, [m[1;32morigin[m[33m)[m Fixed todo app bug and UI issue (added missing task list)
+[33mcae4521[m Added task complete (strike-through) feature
+[33mdbbf22b[m Added validation for empty task
+[33m5943742[m Added basic task add feature
