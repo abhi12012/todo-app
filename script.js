@@ -12,3 +12,7 @@ if (taskText == "") {
   alert("Please enter task!");
   return;
 }
+
+li.onclick = function () {
+  li.style.textDecoration = "line-through";
+};
