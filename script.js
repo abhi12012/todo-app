@@ -7,3 +7,8 @@ function addTask() {
 
   document.getElementById("taskList").appendChild(li);
 }
+
+if (taskText == "") {
+  alert("Please enter task!");
+  return;
+}
